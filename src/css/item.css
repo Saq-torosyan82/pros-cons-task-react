@@ -1,0 +1,10 @@
+.list ul li {
+    margin-bottom: 10px;
+  }
+
+  .list ul li input {
+    font-size: 20px;
+    width: 90%;
+    padding: 0 5px;
+    border: none;
+  }
